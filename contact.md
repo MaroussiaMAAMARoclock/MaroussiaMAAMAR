@@ -1,4 +1,4 @@
-![banière_presentation](./../images/Untitled%20design.jpg)
+![banière_presentation](Untitled%20design.jpg)
 
 # Maroussia MAAMAR
   *Developpeuse Web junior, en formation "Developpemet Web et Accessibilité"*
