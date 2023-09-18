@@ -5,7 +5,7 @@
   *Developpeuse Web junior, en formation "Developpemet Web et Accessibilité"*
 
 
-[Acceuil](./../README.md) - [Projet](projet.md) - [CV](CV.md) - [Contact](contact.md)
+[Acceuil](./../README.md)- [Mon Histoire](./pages/histoire.md) - [CV](CV.md) - [Projet](projet.md) - [Contact](contact.md)
 
 ---
 
