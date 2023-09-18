@@ -1,11 +1,11 @@
-![banière_presentation](Untitled%20design.jpg)
+![banière_presentation](./images/Untitled%20design.jpg)
 
 # Maroussia MAAMAR
 
  *Developpeuse Web junior, en formation "Developpemet Web et Accessibilité"*
 
 
-[Acceuil](README.md) - [Mon Histoire](histoire.md) - [CV](CV.md) - [Mes Projets](projets.md) - [Contact](contact.md)
+[Acceuil](README.md) - [Mon Histoire](./pages/histoire.md) - [CV](./pages/CV.md) - [Mes Projets](./pages/projets.md) - [Contact](./pages/contact.md)
 
 ---
 #### Bonjour à tous :mushroom:
@@ -19,4 +19,4 @@ Pour naviguer à travers les différentes pages, vous avez juste à glisser la :
 Bonne Visite :jack_o_lantern: 
 
 ---
-© 2023 Maroussia MAAMAR [Contact](contact.md)
+© 2023 Maroussia MAAMAR [Contact](./pages/contact.md)
