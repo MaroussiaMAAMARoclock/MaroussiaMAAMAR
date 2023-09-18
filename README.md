@@ -11,7 +11,7 @@ Voici mon petit acceuil de présentation
 
 Vous y trouverez  une page Histoire, mon CV, mes projets (en cours et finis) et enfin ma fiche contact.
 
-Pour naviguer à travers les différentes pages, vous avez juste à glisser la :computer_mouse: sur les liens stiués juste en dessous de mon nom :arrow_up: 
+Pour naviguer à travers les différentes pages, vous avez juste à glisser la :computer_mouse: sur les liens situés juste en dessous de mon nom :arrow_up: 
 
 Bonne Visite :jack_o_lantern: 
 
