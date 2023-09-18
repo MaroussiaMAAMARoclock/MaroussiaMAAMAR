@@ -1,4 +1,4 @@
-![banière_presentation](Untitled%20design.jpg)
+![banière_presentation](./../images/Untitled%20design.jpg)
 
 # Maroussia MAAMAR
 
