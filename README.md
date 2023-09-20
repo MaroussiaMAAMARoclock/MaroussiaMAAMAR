@@ -5,7 +5,7 @@
  *Developpeuse Web junior, en formation "Developpemet Web et Accessibilité"*
 
 
-[Acceuil](README.md) - [Mon Histoire](./pages/histoire.md) - [CV](./pages/CV.md) - [Mes Projets](./pages/projets.md) - [Contact](./pages/contact.md)
+[Accueil](README.md) - [Mon Histoire](./pages/histoire.md) - [CV](./pages/CV.md) - [Mes Projets](./pages/projets.md) - [Contact](./pages/contact.md)
 
 ---
 #### Bonjour à tous :mushroom:
