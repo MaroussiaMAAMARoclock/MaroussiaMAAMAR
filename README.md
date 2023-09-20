@@ -10,7 +10,7 @@
 ---
 #### Bonjour à tous :mushroom:
 
-Voici mon petit acceuil de présentation
+Voici mon petit accueil de présentation
 
 Vous y trouverez  une page Histoire, mon CV, mes projets (en cours et finis) et enfin ma fiche contact.
 
